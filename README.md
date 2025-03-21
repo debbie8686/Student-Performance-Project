@@ -24,14 +24,14 @@ The study aims to determine whether these factors have an impact on student outc
               3: 'D' (2.0 <= GPA < 2.5)
               4: 'F' (GPA < 2.0)
 
-  ## Analyze Content
-  * The Gender Distribution of Total Students
-  * The Impact of Absenteeism on Students’ GPA
-  * How Participation in Sports Affects Students Academic Performance
-  * The Relationship Between Music Participation and GPA
-  * Age Trends Across Different Grade Classifications
-  * Parental Support on Student Achievement
-  * GPA Patterns and Distribution Across Grade Class Levels
+## Analyze Content
+* The Gender Distribution of Total Students
+* The Impact of Absenteeism on Students’ GPA
+* How Participation in Sports Affects Students Academic Performance
+* The Relationship Between Music Participation and GPA
+* Age Trends Across Different Grade Classifications
+* Parental Support on Student Achievement
+* GPA Patterns and Distribution Across Grade Class Levels
 
 
 
